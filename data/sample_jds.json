@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Senior Backend Engineer",
+    "company": "TechStartup Inc",
+    "level": "Senior",
+    "description": "We're looking for a Senior Backend Engineer to lead our platform's backend infrastructure. You'll work with Python, AWS, and build distributed systems serving millions of users. The ideal candidate has 5+ years of experience building scalable backend services, strong expertise in Python and cloud technologies (AWS required), and experience with distributed systems and microservices architecture. You should be comfortable working in a fast-paced startup environment with a strong ownership mentality. Leadership experience preferred — you'll mentor junior developers and help grow the team. Required skills: Python (expert level), AWS (EC2, RDS, Lambda, S3), PostgreSQL, Redis, Docker, REST API design. Nice to have: Kubernetes, GraphQL, CI/CD pipelines, monitoring tools. Domain: Fintech and e-commerce experience is a plus. We value continuous learning, initiative, and data-driven decision making."
+  },
+  {
+    "title": "Data Engineer",
+    "company": "DataCorp Analytics",
+    "level": "Mid-Senior",
+    "description": "DataCorp Analytics is hiring a Data Engineer to design and maintain our data infrastructure. You'll build robust ETL pipelines, manage data warehouses, and enable our data science team with clean, reliable data. Requirements: 3+ years in data engineering, strong SQL skills, experience with Python for data processing, familiarity with cloud data platforms (AWS or GCP). Must have experience with Apache Spark, Airflow, and data warehouse solutions (Redshift, BigQuery, or Snowflake). Knowledge of data modeling, schema design, and data quality frameworks is essential. Nice to have: Kafka for streaming, dbt for transformations, Terraform for infrastructure. We're a collaborative, learning-focused team in the healthcare analytics space."
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "InnovateTech Solutions",
+    "level": "Mid",
+    "description": "InnovateTech is seeking a Full Stack Developer to build and maintain our customer-facing web applications. You'll work across the entire stack — React frontend with TypeScript and Node.js/Express backend with MongoDB. We need someone with 3-5 years of experience who is comfortable with both frontend and backend development. Required: React, TypeScript, Node.js, MongoDB, REST APIs, Git. You should have experience with responsive design, state management (Redux or similar), and testing (Jest, Cypress). Nice to have: Next.js, GraphQL, Docker, AWS basics. This is a remote-friendly position. We're building the next generation of e-commerce tools. Communication and teamwork skills are critical. We value problem solving ability and adaptability in our agile environment."
+  }
+]

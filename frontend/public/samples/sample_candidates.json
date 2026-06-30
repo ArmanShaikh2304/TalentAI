@@ -1,0 +1,157 @@
+{
+  "candidates": [
+    {
+      "id": "c001",
+      "name": "Sarah Chen",
+      "title": "Senior Software Engineer",
+      "experience_years": 7,
+      "skills": ["Python", "AWS", "PostgreSQL", "Docker", "Redis", "FastAPI", "Kubernetes", "CI/CD"],
+      "work_history": [
+        {
+          "company": "FinTechCorp",
+          "role": "Senior Backend Engineer",
+          "years": 3,
+          "achievements": "Led migration to microservices architecture, reducing latency by 40%. Built real-time payment processing pipeline handling 10M+ transactions/month."
+        },
+        {
+          "company": "CloudScale Inc",
+          "role": "Backend Developer",
+          "years": 2,
+          "achievements": "Designed and implemented distributed caching layer using Redis, improving API response times by 60%."
+        },
+        {
+          "company": "DataSoft",
+          "role": "Junior Developer",
+          "years": 2,
+          "achievements": "Built REST APIs for internal tools. Introduced automated testing reducing bug count by 35%."
+        }
+      ],
+      "education": "MS Computer Science, Stanford University",
+      "certifications": ["AWS Solutions Architect Professional", "Kubernetes Administrator (CKA)"],
+      "github": "github.com/sarachen",
+      "linkedin_headline": "Senior Backend Engineer | Python | AWS | Distributed Systems",
+      "summary": "Passionate backend engineer with 7 years of experience building high-scale distributed systems. Expert in Python and AWS with strong leadership skills. Previously led a team of 5 engineers at FinTechCorp.",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": "c002",
+      "name": "Marcus Rivera",
+      "title": "Platform Engineer",
+      "experience_years": 6,
+      "skills": ["Python", "AWS", "Docker", "Terraform", "PostgreSQL", "GraphQL", "Go", "Monitoring"],
+      "work_history": [
+        {
+          "company": "E-Commerce Global",
+          "role": "Platform Engineer",
+          "years": 3,
+          "achievements": "Architected auto-scaling infrastructure on AWS supporting 50M monthly active users. Reduced cloud costs by 30% through resource optimization."
+        },
+        {
+          "company": "StartupXYZ",
+          "role": "Backend Developer",
+          "years": 2,
+          "achievements": "Built event-driven microservices using Python and AWS Lambda. Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes."
+        },
+        {
+          "company": "TechAgency",
+          "role": "Full Stack Developer",
+          "years": 1,
+          "achievements": "Developed REST APIs and client-facing dashboards for 20+ enterprise clients."
+        }
+      ],
+      "education": "BS Computer Engineering, MIT",
+      "certifications": ["AWS DevOps Engineer Professional", "HashiCorp Terraform Associate"],
+      "github": "github.com/marcusrivera",
+      "linkedin_headline": "Platform Engineer | Cloud Infrastructure | Python & Go",
+      "summary": "Platform engineer focused on building resilient cloud infrastructure. Strong experience with AWS, Infrastructure as Code, and monitoring at scale. E-commerce and fintech domain expertise.",
+      "location": "Austin, TX"
+    },
+    {
+      "id": "c003",
+      "name": "Aisha Patel",
+      "title": "Software Engineer II",
+      "experience_years": 4,
+      "skills": ["Python", "Django", "PostgreSQL", "Docker", "Redis", "REST APIs", "React", "AWS"],
+      "work_history": [
+        {
+          "company": "HealthTech Solutions",
+          "role": "Software Engineer II",
+          "years": 2,
+          "achievements": "Built HIPAA-compliant API gateway serving 500+ healthcare providers. Implemented data pipeline processing 1M+ records daily."
+        },
+        {
+          "company": "WebDev Studio",
+          "role": "Full Stack Developer",
+          "years": 2,
+          "achievements": "Developed Django-based backend systems for SaaS products. Created automated testing suite with 90% code coverage."
+        }
+      ],
+      "education": "BS Computer Science, Georgia Tech",
+      "certifications": ["AWS Cloud Practitioner"],
+      "github": "github.com/aishapatel",
+      "linkedin_headline": "Software Engineer | Python | Django | Healthcare Tech",
+      "summary": "Detail-oriented software engineer with 4 years of experience in Python backend development. Strong foundation in API design and database optimization. Growing expertise in cloud technologies.",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": "c004",
+      "name": "James Okoye",
+      "title": "Senior DevOps Engineer",
+      "experience_years": 8,
+      "skills": ["Python", "AWS", "Kubernetes", "Docker", "Terraform", "Jenkins", "Monitoring", "Linux"],
+      "work_history": [
+        {
+          "company": "MegaBank Corp",
+          "role": "Senior DevOps Engineer",
+          "years": 3,
+          "achievements": "Managed Kubernetes clusters serving 200+ microservices. Achieved 99.99% uptime for critical financial systems."
+        },
+        {
+          "company": "CloudOps Inc",
+          "role": "DevOps Engineer",
+          "years": 3,
+          "achievements": "Built automated infrastructure provisioning using Terraform, reducing setup time by 80%. Implemented centralized logging and monitoring."
+        },
+        {
+          "company": "IT Solutions Ltd",
+          "role": "System Administrator",
+          "years": 2,
+          "achievements": "Managed Linux servers and network infrastructure for 500+ user organization."
+        }
+      ],
+      "education": "BS Information Technology, University of Lagos",
+      "certifications": ["AWS Solutions Architect Associate", "CKA", "RHCE"],
+      "github": "github.com/jamesokoye",
+      "linkedin_headline": "Senior DevOps Engineer | AWS | Kubernetes | Infrastructure Automation",
+      "summary": "Experienced DevOps engineer with 8 years specializing in cloud infrastructure and container orchestration. Deep expertise in AWS and Kubernetes. Strong background in fintech reliability engineering.",
+      "location": "Remote (Lagos, Nigeria)"
+    },
+    {
+      "id": "c005",
+      "name": "Elena Volkov",
+      "title": "Backend Developer",
+      "experience_years": 3,
+      "skills": ["Java", "Spring Boot", "PostgreSQL", "Docker", "AWS", "Kafka", "REST APIs"],
+      "work_history": [
+        {
+          "company": "RetailTech",
+          "role": "Backend Developer",
+          "years": 2,
+          "achievements": "Built order processing microservice handling 100K+ orders/day. Integrated Kafka for async event processing."
+        },
+        {
+          "company": "CodeCraft",
+          "role": "Junior Developer",
+          "years": 1,
+          "achievements": "Developed REST APIs using Spring Boot. Participated in code reviews and agile ceremonies."
+        }
+      ],
+      "education": "MS Software Engineering, Technical University of Munich",
+      "certifications": [],
+      "github": "github.com/elenavolkov",
+      "linkedin_headline": "Backend Developer | Java | Spring Boot | Distributed Systems",
+      "summary": "Backend developer with 3 years of experience primarily in Java/Spring Boot. Transitioning to Python ecosystem. Experience with distributed systems and event-driven architecture in e-commerce domain.",
+      "location": "Berlin, Germany"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+We're looking for a Senior Backend Engineer to lead our platform's backend infrastructure. You'll work with Python, AWS, and build distributed systems serving millions of users.
+
+The ideal candidate has 5+ years of experience building scalable backend services, strong expertise in Python and cloud technologies (AWS required), and experience with distributed systems and microservices architecture.
+
+You should be comfortable working in a fast-paced startup environment with a strong ownership mentality. Leadership experience preferred — you'll mentor junior developers and help grow the team.
+
+Required skills: Python (expert level), AWS (EC2, RDS, Lambda, S3), PostgreSQL, Redis, Docker, REST API design.
+Nice to have: Kubernetes, GraphQL, CI/CD pipelines, monitoring tools.
+
+Domain: Fintech and e-commerce experience is a plus.
+We value continuous learning, initiative, and data-driven decision making.

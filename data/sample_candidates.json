@@ -1,0 +1,784 @@
+[
+  {
+    "id": "cand_001",
+    "name": "Priya Singh",
+    "title": "Senior Backend Engineer",
+    "experience_years": 6,
+    "skills": ["Python", "JavaScript", "AWS", "Redis", "PostgreSQL", "Docker", "Microservices", "REST API", "Linux", "Git"],
+    "work_history": [
+      {"company": "FinTech Startup", "role": "Senior Backend Engineer", "years": 3, "achievements": "Led team of 4 developers, built microservices architecture serving 2M users, reduced API latency by 40%"},
+      {"company": "E-Commerce Giant", "role": "Backend Engineer", "years": 2, "achievements": "Optimized database queries, improved system throughput by 60%, mentored 2 junior developers"},
+      {"company": "Startup Y", "role": "Junior Backend Engineer", "years": 1, "achievements": "Built REST APIs for mobile app, implemented caching layer with Redis"}
+    ],
+    "education": "B.Tech Computer Science from IIT Bombay",
+    "certifications": ["AWS Solutions Architect", "Kubernetes Administrator"],
+    "github": "github.com/priyasingh",
+    "linkedin_headline": "Senior Backend Engineer | AWS Expert | Open Source Contributor | Building Scalable Systems"
+  },
+  {
+    "id": "cand_002",
+    "name": "Rahul Kapoor",
+    "title": "Backend Engineer",
+    "experience_years": 5.5,
+    "skills": ["Python", "Java", "Azure", "Spring Boot", "PostgreSQL", "MongoDB", "Docker", "REST API", "Kafka", "Git"],
+    "work_history": [
+      {"company": "Enterprise Solutions Co", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Architected event-driven microservices platform, migrated monolith to microservices serving 500K daily active users"},
+      {"company": "TechCorp", "role": "Backend Developer", "years": 2, "achievements": "Built payment processing system handling $10M monthly, implemented CI/CD pipeline"},
+      {"company": "StartupX", "role": "Software Engineer", "years": 1, "achievements": "Full-stack development of customer portal"}
+    ],
+    "education": "M.Tech Computer Science from NIT Trichy",
+    "certifications": ["Azure Developer Associate", "Spring Professional"],
+    "github": "github.com/rahulkapoor",
+    "linkedin_headline": "Backend Engineer | Microservices Specialist | Java & Python | Building Robust Systems"
+  },
+  {
+    "id": "cand_003",
+    "name": "Deepa Sharma",
+    "title": "Backend Engineer",
+    "experience_years": 7,
+    "skills": ["Go", "Python", "Kubernetes", "Docker", "PostgreSQL", "gRPC", "Terraform", "AWS", "Prometheus", "Git"],
+    "work_history": [
+      {"company": "CloudScale Technologies", "role": "Staff Engineer", "years": 3, "achievements": "Led platform engineering team of 8, designed Kubernetes-based deployment platform used by 50+ microservices"},
+      {"company": "DataFlow Inc", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built real-time data processing pipeline handling 1M events/sec using Go and Kafka"},
+      {"company": "WebServices Pvt Ltd", "role": "Backend Developer", "years": 1.5, "achievements": "Developed RESTful APIs and database layer for SaaS platform"}
+    ],
+    "education": "B.Tech Computer Science from BITS Pilani",
+    "certifications": ["Certified Kubernetes Administrator", "AWS DevOps Professional", "HashiCorp Terraform Associate"],
+    "github": "github.com/deepasharma",
+    "linkedin_headline": "Staff Engineer | Platform Engineering | Go & Kubernetes | Infrastructure Enthusiast"
+  },
+  {
+    "id": "cand_004",
+    "name": "Amit Patel",
+    "title": "Backend Developer",
+    "experience_years": 5,
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "MySQL", "Docker", "REST API", "Celery", "Linux", "Git"],
+    "work_history": [
+      {"company": "WebDev Agency", "role": "Senior Python Developer", "years": 2.5, "achievements": "Built backend services for 15+ client projects, improved code quality through automated testing"},
+      {"company": "ProductCompany", "role": "Python Developer", "years": 1.5, "achievements": "Developed inventory management system, created automated reporting tools"},
+      {"company": "IT Services", "role": "Junior Developer", "years": 1, "achievements": "Backend development for internal tools, database optimization"}
+    ],
+    "education": "B.E. Information Technology from Mumbai University",
+    "certifications": [],
+    "github": "",
+    "linkedin_headline": "Python Developer | Django & Flask | Backend Development"
+  },
+  {
+    "id": "cand_005",
+    "name": "Neha Gupta",
+    "title": "Full Stack Engineer",
+    "experience_years": 6,
+    "skills": ["JavaScript", "TypeScript", "React", "Node.js", "Python", "MongoDB", "AWS", "Docker", "GraphQL", "Git"],
+    "work_history": [
+      {"company": "TechUnicorn", "role": "Senior Full Stack Engineer", "years": 2.5, "achievements": "Led frontend architecture migration to React, built API gateway serving 100K requests/min"},
+      {"company": "StartupZ", "role": "Full Stack Developer", "years": 2, "achievements": "Built entire product from scratch — React frontend + Node.js backend + MongoDB, launched to 50K users"},
+      {"company": "Consulting Firm", "role": "Software Developer", "years": 1.5, "achievements": "Full-stack development for enterprise clients"}
+    ],
+    "education": "B.Tech Computer Science from Delhi Technological University",
+    "certifications": ["AWS Cloud Practitioner"],
+    "github": "github.com/nehagupta",
+    "linkedin_headline": "Full Stack Engineer | React & Node.js | Building Products Users Love"
+  },
+  {
+    "id": "cand_006",
+    "name": "Vikram Rao",
+    "title": "Software Engineer",
+    "experience_years": 3,
+    "skills": ["Python", "Java", "Spring Boot", "MySQL", "Docker", "REST API", "Git", "Jenkins"],
+    "work_history": [
+      {"company": "MidSize Tech", "role": "Software Engineer", "years": 2, "achievements": "Built microservices for order processing, improved test coverage from 40% to 85%"},
+      {"company": "Service Company", "role": "Associate Software Engineer", "years": 1, "achievements": "Backend API development, database migration scripts"}
+    ],
+    "education": "B.Tech Computer Science from VIT Vellore",
+    "certifications": ["Oracle Java SE 11"],
+    "github": "github.com/vikramrao",
+    "linkedin_headline": "Software Engineer | Java & Python | Learning & Growing"
+  },
+  {
+    "id": "cand_007",
+    "name": "Ananya Krishnan",
+    "title": "Senior Software Engineer",
+    "experience_years": 8,
+    "skills": ["Java", "Spring Boot", "AWS", "Kubernetes", "PostgreSQL", "Redis", "Kafka", "Microservices", "Docker", "Terraform", "Git"],
+    "work_history": [
+      {"company": "MegaCorp", "role": "Senior Software Engineer", "years": 3, "achievements": "Architected and built payment platform processing $100M annually, led team of 6 engineers"},
+      {"company": "BankingTech", "role": "Software Engineer", "years": 3, "achievements": "Built core banking APIs, implemented event-driven architecture with Kafka"},
+      {"company": "IT Consulting", "role": "Junior Software Engineer", "years": 2, "achievements": "Enterprise Java application development"}
+    ],
+    "education": "M.Tech Software Engineering from IISc Bangalore",
+    "certifications": ["AWS Solutions Architect Professional", "Certified Scrum Master"],
+    "github": "github.com/ananyak",
+    "linkedin_headline": "Senior Software Engineer | Platform Architecture | Java & AWS | Fintech Specialist"
+  },
+  {
+    "id": "cand_008",
+    "name": "Rohan Mehta",
+    "title": "DevOps Engineer",
+    "experience_years": 4,
+    "skills": ["Python", "AWS", "Docker", "Kubernetes", "Terraform", "Jenkins", "Ansible", "Linux", "Prometheus", "Grafana", "Git"],
+    "work_history": [
+      {"company": "CloudOps Startup", "role": "Senior DevOps Engineer", "years": 2, "achievements": "Built CI/CD pipelines reducing deployment time from 2 hours to 15 minutes, managed infrastructure for 30+ microservices"},
+      {"company": "Tech Solutions", "role": "DevOps Engineer", "years": 2, "achievements": "Implemented infrastructure as code with Terraform, containerized 20+ applications"}
+    ],
+    "education": "B.Tech Computer Science from IIIT Hyderabad",
+    "certifications": ["AWS DevOps Professional", "CKA Kubernetes", "HashiCorp Terraform Associate"],
+    "github": "github.com/rohanmehta",
+    "linkedin_headline": "DevOps Engineer | AWS & Kubernetes | Infrastructure Automation | SRE Mindset"
+  },
+  {
+    "id": "cand_009",
+    "name": "Kavitha Sundaram",
+    "title": "Data Engineer",
+    "experience_years": 4,
+    "skills": ["Python", "SQL", "Spark", "Airflow", "AWS", "Redshift", "Kafka", "Docker", "dbt", "Git"],
+    "work_history": [
+      {"company": "Analytics Corp", "role": "Senior Data Engineer", "years": 2, "achievements": "Built ETL pipeline processing 500GB daily, designed data warehouse schema for analytics platform"},
+      {"company": "DataStartup", "role": "Data Engineer", "years": 2, "achievements": "Implemented real-time streaming pipeline with Kafka, built data quality monitoring framework"}
+    ],
+    "education": "M.Sc. Data Science from IIT Madras",
+    "certifications": ["AWS Data Analytics Specialty", "Databricks Spark Developer"],
+    "github": "github.com/kavithas",
+    "linkedin_headline": "Data Engineer | Big Data & Analytics | Python & Spark | Building Data Pipelines"
+  },
+  {
+    "id": "cand_010",
+    "name": "Siddharth Jain",
+    "title": "Backend Engineer",
+    "experience_years": 2,
+    "skills": ["Python", "Flask", "PostgreSQL", "Redis", "Docker", "REST API", "Git", "Linux"],
+    "work_history": [
+      {"company": "Early Stage Startup", "role": "Backend Engineer", "years": 1.5, "achievements": "Built backend from scratch for social media platform, handling 10K daily active users"},
+      {"company": "Internship Co", "role": "Software Intern", "years": 0.5, "achievements": "Developed internal tools and dashboards"}
+    ],
+    "education": "B.Tech Computer Science from NIT Surathkal",
+    "certifications": [],
+    "github": "github.com/sidjain",
+    "linkedin_headline": "Backend Engineer | Python Enthusiast | Building Cool Stuff"
+  },
+  {
+    "id": "cand_011",
+    "name": "Meera Nair",
+    "title": "Lead Backend Engineer",
+    "experience_years": 9,
+    "skills": ["Python", "Go", "AWS", "Kubernetes", "PostgreSQL", "Redis", "Kafka", "Microservices", "Docker", "Terraform", "GraphQL", "Git"],
+    "work_history": [
+      {"company": "Unicorn Fintech", "role": "Lead Backend Engineer", "years": 3, "achievements": "Led backend team of 12 engineers, architected microservices platform processing 5M transactions/day, reduced infrastructure costs by 35%"},
+      {"company": "E-Commerce Leader", "role": "Senior Backend Engineer", "years": 3, "achievements": "Built recommendation engine backend, scaled search infrastructure to handle 10K queries/sec"},
+      {"company": "Tech Startup", "role": "Backend Engineer", "years": 2, "achievements": "Core backend development, API design, database optimization"},
+      {"company": "Software House", "role": "Junior Developer", "years": 1, "achievements": "Web application development"}
+    ],
+    "education": "B.Tech Computer Science from IIT Delhi, MBA from ISB Hyderabad",
+    "certifications": ["AWS Solutions Architect Professional", "Google Cloud Professional Architect", "Certified Kubernetes Administrator"],
+    "github": "github.com/meeranair",
+    "linkedin_headline": "Lead Backend Engineer | Platform Architecture | Python & Go | Fintech & E-commerce | Speaker & Mentor"
+  },
+  {
+    "id": "cand_012",
+    "name": "Arjun Reddy",
+    "title": "Software Developer",
+    "experience_years": 3.5,
+    "skills": ["Java", "Spring Boot", "MySQL", "React", "JavaScript", "Docker", "REST API", "Git"],
+    "work_history": [
+      {"company": "Product Company", "role": "Software Developer", "years": 2, "achievements": "Built inventory management module, integrated third-party payment gateway"},
+      {"company": "Services Firm", "role": "Junior Developer", "years": 1.5, "achievements": "Full-stack development for client projects"}
+    ],
+    "education": "B.Tech Information Technology from Anna University",
+    "certifications": ["Oracle Java SE 11"],
+    "github": "",
+    "linkedin_headline": "Software Developer | Java & React | Full Stack"
+  },
+  {
+    "id": "cand_013",
+    "name": "Pooja Agarwal",
+    "title": "Senior Python Developer",
+    "experience_years": 5.5,
+    "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "Redis", "AWS", "Docker", "Celery", "REST API", "Git", "Elasticsearch"],
+    "work_history": [
+      {"company": "SaaS Platform", "role": "Senior Python Developer", "years": 2.5, "achievements": "Built search and recommendation engine using Elasticsearch, designed multi-tenant API architecture"},
+      {"company": "HealthTech Startup", "role": "Python Developer", "years": 2, "achievements": "Developed patient data processing pipeline, implemented HIPAA-compliant APIs"},
+      {"company": "Agency", "role": "Junior Developer", "years": 1, "achievements": "Django web application development"}
+    ],
+    "education": "B.Tech Computer Science from Manipal Institute of Technology",
+    "certifications": ["AWS Cloud Practitioner"],
+    "github": "github.com/poojaa",
+    "linkedin_headline": "Senior Python Developer | FastAPI & Django | SaaS & HealthTech | Building APIs That Scale"
+  },
+  {
+    "id": "cand_014",
+    "name": "Karthik Venkatesh",
+    "title": "Platform Engineer",
+    "experience_years": 6,
+    "skills": ["Go", "Python", "AWS", "Kubernetes", "Docker", "Terraform", "Prometheus", "PostgreSQL", "gRPC", "Microservices", "CI/CD", "Git"],
+    "work_history": [
+      {"company": "ScaleUp Technologies", "role": "Platform Engineer", "years": 3, "achievements": "Built internal developer platform serving 200+ engineers, designed service mesh with Istio"},
+      {"company": "Cloud Services Co", "role": "Backend Engineer", "years": 2, "achievements": "Developed auto-scaling infrastructure, implemented blue-green deployments"},
+      {"company": "Startup", "role": "Software Engineer", "years": 1, "achievements": "Backend development and deployment automation"}
+    ],
+    "education": "B.Tech Computer Science from IIT Kanpur",
+    "certifications": ["CKA Kubernetes", "AWS DevOps Professional"],
+    "github": "github.com/karthikv",
+    "linkedin_headline": "Platform Engineer | Go & Kubernetes | Developer Experience | Infrastructure at Scale"
+  },
+  {
+    "id": "cand_015",
+    "name": "Shreya Banerjee",
+    "title": "Machine Learning Engineer",
+    "experience_years": 4,
+    "skills": ["Python", "TensorFlow", "PyTorch", "scikit-learn", "AWS", "Docker", "PostgreSQL", "FastAPI", "Pandas", "NumPy", "Git"],
+    "work_history": [
+      {"company": "AI Startup", "role": "ML Engineer", "years": 2, "achievements": "Built recommendation system increasing user engagement by 25%, deployed ML models to production on AWS SageMaker"},
+      {"company": "Research Lab", "role": "Research Engineer", "years": 1.5, "achievements": "Published paper on NLP techniques, built text classification pipeline"},
+      {"company": "Analytics Firm", "role": "Data Analyst", "years": 0.5, "achievements": "Data analysis and visualization for business intelligence"}
+    ],
+    "education": "M.Tech AI from IISc Bangalore",
+    "certifications": ["AWS Machine Learning Specialty", "Deep Learning Specialization (Coursera)"],
+    "github": "github.com/shreya-ml",
+    "linkedin_headline": "ML Engineer | NLP & Recommendations | Python & TensorFlow | AI Researcher"
+  },
+  {
+    "id": "cand_016",
+    "name": "Rajesh Kumar",
+    "title": "Senior Software Engineer",
+    "experience_years": 7,
+    "skills": ["Python", "Java", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "Microservices", "SQL", "Git"],
+    "work_history": [
+      {"company": "LargeTech Corp", "role": "Senior Software Engineer", "years": 4, "achievements": "Maintained and enhanced legacy payment system, fixed critical production bugs"},
+      {"company": "IT Services", "role": "Software Engineer", "years": 3, "achievements": "Enterprise application development and maintenance"}
+    ],
+    "education": "B.Tech Computer Science from Pune University",
+    "certifications": [],
+    "github": "",
+    "linkedin_headline": "Senior Software Engineer | Java & Python"
+  },
+  {
+    "id": "cand_017",
+    "name": "Aisha Parveen",
+    "title": "Backend Engineer",
+    "experience_years": 4.5,
+    "skills": ["Python", "Node.js", "AWS", "MongoDB", "PostgreSQL", "Redis", "Docker", "Express", "REST API", "Kubernetes", "Git"],
+    "work_history": [
+      {"company": "E-Commerce Startup", "role": "Backend Engineer", "years": 2.5, "achievements": "Built order processing system handling 50K orders/day, implemented caching strategy reducing response times by 70%"},
+      {"company": "Agency Dev", "role": "Software Developer", "years": 2, "achievements": "Built APIs for multiple e-commerce clients, payment integration"}
+    ],
+    "education": "B.Tech Computer Science from Jamia Millia Islamia",
+    "certifications": ["AWS Developer Associate"],
+    "github": "github.com/aishap",
+    "linkedin_headline": "Backend Engineer | Python & Node.js | E-Commerce & Fintech | AWS Certified"
+  },
+  {
+    "id": "cand_018",
+    "name": "Suresh Iyer",
+    "title": "Software Architect",
+    "experience_years": 12,
+    "skills": ["Java", "Python", "AWS", "Kubernetes", "PostgreSQL", "Kafka", "Microservices", "System Design", "Docker", "Terraform", "Leadership", "Git"],
+    "work_history": [
+      {"company": "Enterprise Corp", "role": "Software Architect", "years": 4, "achievements": "Designed enterprise-wide microservices architecture for 500+ person engineering org"},
+      {"company": "Banking Giant", "role": "Lead Engineer", "years": 4, "achievements": "Led core banking platform modernization, managed team of 15 engineers"},
+      {"company": "Tech Company", "role": "Senior Engineer", "years": 3, "achievements": "Built high-frequency trading systems"},
+      {"company": "Startup", "role": "Developer", "years": 1, "achievements": "Full-stack development"}
+    ],
+    "education": "M.Tech from IIT Kharagpur, B.Tech from NIT Warangal",
+    "certifications": ["AWS Solutions Architect Professional", "TOGAF Certified"],
+    "github": "github.com/sureshi",
+    "linkedin_headline": "Software Architect | Enterprise Systems | Java & Cloud | 12+ Years Building at Scale"
+  },
+  {
+    "id": "cand_019",
+    "name": "Riya Desai",
+    "title": "Full Stack Developer",
+    "experience_years": 3,
+    "skills": ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Python", "Flask", "Docker", "Git", "CSS"],
+    "work_history": [
+      {"company": "Product Studio", "role": "Full Stack Developer", "years": 2, "achievements": "Built 3 customer-facing web applications from ideation to launch, React + Node.js stack"},
+      {"company": "Web Agency", "role": "Frontend Developer", "years": 1, "achievements": "Developed responsive web interfaces, improved page load times by 50%"}
+    ],
+    "education": "B.Tech Computer Science from LNMIIT Jaipur",
+    "certifications": [],
+    "github": "github.com/riyadesai",
+    "linkedin_headline": "Full Stack Developer | React & Node.js | Building Web Products"
+  },
+  {
+    "id": "cand_020",
+    "name": "Manish Tiwari",
+    "title": "Backend Engineer",
+    "experience_years": 1.5,
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "REST API", "Git", "Linux"],
+    "work_history": [
+      {"company": "Small Startup", "role": "Backend Engineer", "years": 1, "achievements": "Built REST APIs for mobile app backend"},
+      {"company": "College Project", "role": "Intern", "years": 0.5, "achievements": "Built student management system using Django"}
+    ],
+    "education": "B.Tech Computer Science from Amity University",
+    "certifications": [],
+    "github": "github.com/manisht",
+    "linkedin_headline": "Backend Engineer | Python & Django | Fresher"
+  },
+  {
+    "id": "cand_021",
+    "name": "Sneha Pillai",
+    "title": "Senior Backend Engineer",
+    "experience_years": 6.5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Microservices", "FastAPI", "Celery", "REST API", "Git", "Distributed Systems"],
+    "work_history": [
+      {"company": "Fintech Unicorn", "role": "Senior Backend Engineer", "years": 3, "achievements": "Built real-time fraud detection system processing 1M transactions/hour, reduced false positives by 40%"},
+      {"company": "Tech Platform", "role": "Backend Engineer", "years": 2, "achievements": "Designed and built notification service handling 10M push notifications/day"},
+      {"company": "Software Lab", "role": "Software Developer", "years": 1.5, "achievements": "API development and database optimization"}
+    ],
+    "education": "B.Tech Computer Science from NIT Calicut",
+    "certifications": ["AWS Solutions Architect Associate", "Python Professional Certificate"],
+    "github": "github.com/snehap",
+    "linkedin_headline": "Senior Backend Engineer | Python & AWS | Distributed Systems | Fintech Specialist"
+  },
+  {
+    "id": "cand_022",
+    "name": "Varun Sharma",
+    "title": "Software Engineer",
+    "experience_years": 2.5,
+    "skills": ["Java", "Spring Boot", "MySQL", "AWS", "Docker", "REST API", "Git", "JUnit"],
+    "work_history": [
+      {"company": "Mid-Size Product Co", "role": "Software Engineer", "years": 1.5, "achievements": "Developed microservices for user management module, wrote comprehensive unit tests"},
+      {"company": "Tech Services", "role": "Associate Software Engineer", "years": 1, "achievements": "Backend development for client projects using Spring Boot"}
+    ],
+    "education": "B.Tech Computer Science from SRM University",
+    "certifications": ["AWS Cloud Practitioner"],
+    "github": "github.com/varunsharma",
+    "linkedin_headline": "Software Engineer | Java & Spring Boot | AWS | Learning Every Day"
+  },
+  {
+    "id": "cand_023",
+    "name": "Tanvi Kulkarni",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "Go", "AWS", "PostgreSQL", "Redis", "Docker", "Microservices", "REST API", "Kafka", "Git"],
+    "work_history": [
+      {"company": "Logistics Startup", "role": "Senior Backend Engineer", "years": 2, "achievements": "Built real-time shipment tracking system serving 200K daily active users, designed event-driven architecture"},
+      {"company": "E-Commerce Co", "role": "Backend Engineer", "years": 2, "achievements": "Developed product catalog service, payment integration with Razorpay and Stripe"},
+      {"company": "IT Firm", "role": "Junior Developer", "years": 1, "achievements": "API development and testing"}
+    ],
+    "education": "B.Tech Computer Science from COEP Pune",
+    "certifications": ["AWS Developer Associate"],
+    "github": "github.com/tanvik",
+    "linkedin_headline": "Backend Engineer | Python & Go | E-Commerce & Logistics | Building Real-Time Systems"
+  },
+  {
+    "id": "cand_024",
+    "name": "Nikhil Goyal",
+    "title": "Frontend Engineer",
+    "experience_years": 4,
+    "skills": ["React", "TypeScript", "JavaScript", "CSS", "HTML", "Redux", "Next.js", "Jest", "Git", "Figma"],
+    "work_history": [
+      {"company": "Design Studio", "role": "Senior Frontend Engineer", "years": 2, "achievements": "Built design system used across 8 products, improved Core Web Vitals scores by 60%"},
+      {"company": "Web App Co", "role": "Frontend Developer", "years": 2, "achievements": "Developed responsive dashboards, real-time data visualization components"}
+    ],
+    "education": "B.Des. from NID Ahmedabad, Self-taught programming",
+    "certifications": [],
+    "github": "github.com/nikhilg",
+    "linkedin_headline": "Frontend Engineer | React & TypeScript | Design Systems | UX Engineering"
+  },
+  {
+    "id": "cand_025",
+    "name": "Divya Menon",
+    "title": "Backend Engineer",
+    "experience_years": 4.5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "REST API", "FastAPI", "Celery", "Git", "CI/CD"],
+    "work_history": [
+      {"company": "EdTech Platform", "role": "Backend Engineer", "years": 2.5, "achievements": "Built video processing pipeline handling 10K uploads/day, designed auto-scaling architecture on AWS"},
+      {"company": "SaaS Company", "role": "Junior Backend Engineer", "years": 2, "achievements": "API development, database schema design, background job processing with Celery"}
+    ],
+    "education": "B.Tech Computer Science from NSIT Delhi",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "github": "github.com/divyam",
+    "linkedin_headline": "Backend Engineer | Python & AWS | EdTech & SaaS | Cloud Architecture"
+  },
+  {
+    "id": "cand_026",
+    "name": "Sameer Ahmed",
+    "title": "Software Engineer",
+    "experience_years": 3,
+    "skills": ["Python", "JavaScript", "React", "Node.js", "MongoDB", "Docker", "REST API", "Git", "AWS"],
+    "work_history": [
+      {"company": "Startup Hub", "role": "Software Engineer", "years": 0.8, "achievements": "Full-stack development for internal tools"},
+      {"company": "Another Startup", "role": "Developer", "years": 0.7, "achievements": "Frontend and backend development"},
+      {"company": "Freelance", "role": "Freelance Developer", "years": 0.8, "achievements": "Built websites for clients"},
+      {"company": "Agency", "role": "Junior Developer", "years": 0.7, "achievements": "Web development"}
+    ],
+    "education": "B.Tech from Amrita University",
+    "certifications": [],
+    "github": "",
+    "linkedin_headline": "Software Engineer | Full Stack | Python & React"
+  },
+  {
+    "id": "cand_027",
+    "name": "Lakshmi Narayanan",
+    "title": "Senior Backend Engineer",
+    "experience_years": 7,
+    "skills": ["Python", "Java", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Microservices", "REST API", "GraphQL", "Monitoring", "Git"],
+    "work_history": [
+      {"company": "PaymentTech", "role": "Senior Backend Engineer", "years": 3, "achievements": "Built payment reconciliation system handling $50M daily, led migration from monolith to microservices"},
+      {"company": "E-Commerce Platform", "role": "Backend Engineer", "years": 2.5, "achievements": "Designed product recommendation engine, implemented A/B testing framework"},
+      {"company": "Software Company", "role": "Software Developer", "years": 1.5, "achievements": "Backend API development for enterprise clients"}
+    ],
+    "education": "B.Tech Computer Science from IIT Roorkee",
+    "certifications": ["AWS Solutions Architect Associate", "Google Cloud Professional Developer"],
+    "github": "github.com/lakshminarayanan",
+    "linkedin_headline": "Senior Backend Engineer | Python & Java | Payments & E-Commerce | Distributed Systems Expert"
+  },
+  {
+    "id": "cand_028",
+    "name": "Harish Gupta",
+    "title": "Backend Developer",
+    "experience_years": 4,
+    "skills": ["C#", "ASP.NET", "SQL Server", "Azure", "Docker", "REST API", "Git", "Entity Framework"],
+    "work_history": [
+      {"company": "Enterprise Software", "role": "Senior .NET Developer", "years": 2, "achievements": "Built enterprise resource planning modules, handled complex business logic"},
+      {"company": "IT Company", "role": ".NET Developer", "years": 2, "achievements": "Web application development using ASP.NET MVC"}
+    ],
+    "education": "B.Tech Computer Science from LPU",
+    "certifications": ["Microsoft Azure Fundamentals"],
+    "github": "",
+    "linkedin_headline": ".NET Developer | C# & Azure | Enterprise Software"
+  },
+  {
+    "id": "cand_029",
+    "name": "Nandini Raghavan",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "Django", "Celery", "Elasticsearch", "Git"],
+    "work_history": [
+      {"company": "HealthTech Startup", "role": "Senior Backend Engineer", "years": 2, "achievements": "Built HIPAA-compliant patient data platform, designed search infrastructure with Elasticsearch"},
+      {"company": "Marketplace App", "role": "Backend Engineer", "years": 2, "achievements": "Developed listing service handling 100K+ products, payment processing integration"},
+      {"company": "Consulting", "role": "Junior Developer", "years": 1, "achievements": "Django web application development"}
+    ],
+    "education": "B.Tech Computer Science from PSG Tech Coimbatore",
+    "certifications": ["AWS Developer Associate"],
+    "github": "github.com/nandinir",
+    "linkedin_headline": "Backend Engineer | Python & Django | HealthTech & Marketplace | Building Reliable Systems"
+  },
+  {
+    "id": "cand_030",
+    "name": "Gaurav Singh",
+    "title": "SRE / DevOps Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "Go", "AWS", "Kubernetes", "Docker", "Terraform", "Prometheus", "Grafana", "Linux", "CI/CD", "Git", "Ansible"],
+    "work_history": [
+      {"company": "BigTech India", "role": "Site Reliability Engineer", "years": 2.5, "achievements": "Managed Kubernetes clusters serving 99.99% uptime, automated incident response reducing MTTR by 60%"},
+      {"company": "Cloud Startup", "role": "DevOps Engineer", "years": 1.5, "achievements": "Built entire CI/CD pipeline from scratch, containerized 30+ services"},
+      {"company": "IT Services", "role": "Systems Engineer", "years": 1, "achievements": "Infrastructure automation and monitoring"}
+    ],
+    "education": "B.Tech Computer Science from IIIT Allahabad",
+    "certifications": ["CKA Kubernetes", "AWS DevOps Professional", "HashiCorp Terraform Associate"],
+    "github": "github.com/gauravs",
+    "linkedin_headline": "SRE | Kubernetes & AWS | Infrastructure at Scale | 99.99% Uptime Enthusiast"
+  },
+  {
+    "id": "cand_031",
+    "name": "Pallavi Joshi",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "FastAPI", "Microservices", "Git", "Linux"],
+    "work_history": [
+      {"company": "InsureTech", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built insurance claims processing system, reduced processing time from 48 hours to 2 hours with automation"},
+      {"company": "RetailTech", "role": "Backend Engineer", "years": 1.5, "achievements": "Developed inventory sync system across 500+ stores"},
+      {"company": "Software Firm", "role": "Python Developer", "years": 1, "achievements": "API development and database optimization"}
+    ],
+    "education": "B.Tech IT from Symbiosis Institute of Technology",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "github": "github.com/pallavij",
+    "linkedin_headline": "Backend Engineer | Python & AWS | InsureTech & Retail | Process Automation"
+  },
+  {
+    "id": "cand_032",
+    "name": "Abhishek Das",
+    "title": "Software Engineer",
+    "experience_years": 2,
+    "skills": ["Python", "JavaScript", "React", "Django", "PostgreSQL", "Docker", "Git", "HTML", "CSS"],
+    "work_history": [
+      {"company": "EdTech Startup", "role": "Software Engineer", "years": 1.5, "achievements": "Built student dashboard and quiz engine, full-stack development"},
+      {"company": "Internship", "role": "Intern", "years": 0.5, "achievements": "Frontend development with React"}
+    ],
+    "education": "B.Tech Computer Science from Jadavpur University",
+    "certifications": [],
+    "github": "github.com/abhishekd",
+    "linkedin_headline": "Software Engineer | Python & React | EdTech | Building for Impact"
+  },
+  {
+    "id": "cand_033",
+    "name": "Megha Srinivasan",
+    "title": "Senior Backend Engineer",
+    "experience_years": 6,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Microservices", "REST API", "Distributed Systems", "Git", "CI/CD"],
+    "work_history": [
+      {"company": "Ride-Sharing Startup", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built real-time ride matching algorithm, scaled backend to handle 100K concurrent requests"},
+      {"company": "Social Media Co", "role": "Backend Engineer", "years": 2, "achievements": "Developed content delivery system, implemented caching reducing page loads by 80%"},
+      {"company": "Tech Startup", "role": "Junior Backend Developer", "years": 1.5, "achievements": "API development, contributed to open source libraries"}
+    ],
+    "education": "B.Tech Computer Science from IIT Guwahati",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "github": "github.com/meghas",
+    "linkedin_headline": "Senior Backend Engineer | Python & AWS | Real-Time Systems | Distributed Architecture"
+  },
+  {
+    "id": "cand_034",
+    "name": "Prasad Kulkarni",
+    "title": "Backend Engineer",
+    "experience_years": 4,
+    "skills": ["Ruby", "Rails", "PostgreSQL", "Redis", "Docker", "REST API", "JavaScript", "React", "Git", "AWS"],
+    "work_history": [
+      {"company": "SaaS Startup", "role": "Backend Engineer", "years": 2, "achievements": "Built subscription billing system, API integration with Stripe and Razorpay"},
+      {"company": "Consulting Firm", "role": "Full Stack Developer", "years": 2, "achievements": "Ruby on Rails web application development for multiple clients"}
+    ],
+    "education": "B.Tech Information Technology from VJTI Mumbai",
+    "certifications": [],
+    "github": "github.com/prasadk",
+    "linkedin_headline": "Backend Engineer | Ruby on Rails | SaaS Products | API Design"
+  },
+  {
+    "id": "cand_035",
+    "name": "Swati Mishra",
+    "title": "Senior Python Developer",
+    "experience_years": 5.5,
+    "skills": ["Python", "Django", "FastAPI", "AWS", "PostgreSQL", "Redis", "Docker", "Celery", "REST API", "Git", "Elasticsearch"],
+    "work_history": [
+      {"company": "TravelTech", "role": "Senior Python Developer", "years": 2.5, "achievements": "Built flight search aggregation engine processing 5M searches/day, reduced search latency by 65%"},
+      {"company": "LogiTech", "role": "Python Developer", "years": 2, "achievements": "Developed fleet management backend, real-time GPS tracking system"},
+      {"company": "Web Agency", "role": "Junior Developer", "years": 1, "achievements": "Django web applications for SMB clients"}
+    ],
+    "education": "B.Tech Computer Science from Thapar University",
+    "certifications": ["AWS Cloud Practitioner", "Python PCAP"],
+    "github": "github.com/swatim",
+    "linkedin_headline": "Senior Python Developer | Django & FastAPI | TravelTech & Logistics | Performance Optimization"
+  },
+  {
+    "id": "cand_036",
+    "name": "Ravi Shankar",
+    "title": "Engineering Manager",
+    "experience_years": 10,
+    "skills": ["Python", "Java", "AWS", "PostgreSQL", "Microservices", "Leadership", "System Design", "Docker", "Kubernetes", "Agile", "Git"],
+    "work_history": [
+      {"company": "Tech Giant", "role": "Engineering Manager", "years": 3, "achievements": "Managed 20-person engineering team, delivered 5 major platform features on time"},
+      {"company": "Fintech Platform", "role": "Lead Engineer", "years": 3, "achievements": "Led payment gateway development, designed scalable architecture"},
+      {"company": "Product Company", "role": "Senior Engineer", "years": 2.5, "achievements": "Core platform development, code review and architecture decisions"},
+      {"company": "Services", "role": "Software Engineer", "years": 1.5, "achievements": "Enterprise software development"}
+    ],
+    "education": "M.Tech from IIT Bombay, B.Tech from NIT Trichy",
+    "certifications": ["AWS Solutions Architect Professional", "Certified Scrum Master", "PMP"],
+    "github": "",
+    "linkedin_headline": "Engineering Manager | Platform Engineering | Python & Java | Building High-Performance Teams"
+  },
+  {
+    "id": "cand_037",
+    "name": "Ankita Bhatt",
+    "title": "Backend Engineer",
+    "experience_years": 3.5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "Flask", "SQLAlchemy", "Git", "Linux"],
+    "work_history": [
+      {"company": "PropTech Startup", "role": "Backend Engineer", "years": 2, "achievements": "Built property listing API serving 50K listings, implemented geospatial search"},
+      {"company": "Software Company", "role": "Junior Python Developer", "years": 1.5, "achievements": "Flask API development, database modeling"}
+    ],
+    "education": "B.Tech Computer Science from DTU Delhi",
+    "certifications": [],
+    "github": "github.com/ankitab",
+    "linkedin_headline": "Backend Engineer | Python & Flask | PropTech | Geospatial Systems"
+  },
+  {
+    "id": "cand_038",
+    "name": "Vivek Choudhary",
+    "title": "Senior Backend Engineer",
+    "experience_years": 6,
+    "skills": ["Python", "Java", "AWS", "PostgreSQL", "Redis", "Kafka", "Docker", "Microservices", "REST API", "Spring Boot", "Git"],
+    "work_history": [
+      {"company": "Gaming Platform", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built real-time game state synchronization system handling 500K concurrent users, designed leaderboard service"},
+      {"company": "SocialApp", "role": "Backend Engineer", "years": 2, "achievements": "Developed messaging system with Kafka, built user activity feeds"},
+      {"company": "IT Company", "role": "Software Developer", "years": 1.5, "achievements": "Backend development using Java and Spring Boot"}
+    ],
+    "education": "B.Tech Computer Science from BHU Varanasi",
+    "certifications": ["AWS Developer Associate"],
+    "github": "github.com/vivekc",
+    "linkedin_headline": "Senior Backend Engineer | Python & Java | Real-Time Systems | Gaming & Social"
+  },
+  {
+    "id": "cand_039",
+    "name": "Ishita Saxena",
+    "title": "Data Scientist",
+    "experience_years": 3,
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Pandas", "NumPy", "SQL", "AWS", "Docker", "scikit-learn", "Git"],
+    "work_history": [
+      {"company": "Analytics Startup", "role": "Data Scientist", "years": 2, "achievements": "Built customer churn prediction model with 92% accuracy, automated reporting dashboards"},
+      {"company": "Research Intern", "role": "ML Intern", "years": 1, "achievements": "Developed sentiment analysis pipeline for social media data"}
+    ],
+    "education": "M.Sc. Statistics from ISI Kolkata",
+    "certifications": ["Google Data Analytics Certificate"],
+    "github": "github.com/ishitas",
+    "linkedin_headline": "Data Scientist | ML & Statistics | Python | Predictive Analytics"
+  },
+  {
+    "id": "cand_040",
+    "name": "Pranav Deshmukh",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "Django", "Celery", "Microservices", "Git", "Nginx"],
+    "work_history": [
+      {"company": "AgriTech Startup", "role": "Senior Backend Engineer", "years": 2, "achievements": "Built supply chain management platform for farmers, designed multi-tenant API architecture"},
+      {"company": "E-Commerce", "role": "Backend Engineer", "years": 2, "achievements": "Developed order management system, payment gateway integration"},
+      {"company": "Software Services", "role": "Junior Developer", "years": 1, "achievements": "Python/Django web development"}
+    ],
+    "education": "B.Tech Computer Science from VNIT Nagpur",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "github": "github.com/pranavd",
+    "linkedin_headline": "Backend Engineer | Python & AWS | AgriTech & E-Commerce | Scalable APIs"
+  },
+  {
+    "id": "cand_041",
+    "name": "Nisha Verma",
+    "title": "Backend Engineer",
+    "experience_years": 4,
+    "skills": ["Python", "AWS", "PostgreSQL", "Docker", "REST API", "Flask", "Celery", "Redis", "Git", "Linux"],
+    "work_history": [
+      {"company": "FoodTech", "role": "Backend Engineer", "years": 2, "achievements": "Built restaurant partner API platform, order routing system serving 20K orders/day"},
+      {"company": "Digital Agency", "role": "Python Developer", "years": 2, "achievements": "API development for multiple client projects, database optimization"}
+    ],
+    "education": "B.Tech Information Technology from MNNIT Allahabad",
+    "certifications": [],
+    "github": "github.com/nishav",
+    "linkedin_headline": "Backend Engineer | Python & AWS | FoodTech | APIs & Microservices"
+  },
+  {
+    "id": "cand_042",
+    "name": "Aditya Narayan",
+    "title": "Software Engineer",
+    "experience_years": 3,
+    "skills": ["Python", "JavaScript", "AWS", "PostgreSQL", "Docker", "React", "Node.js", "MongoDB", "Git", "REST API"],
+    "work_history": [
+      {"company": "Startup A", "role": "Software Engineer", "years": 1, "achievements": "Full-stack development for IoT dashboard"},
+      {"company": "Startup B", "role": "Software Engineer", "years": 1, "achievements": "Built chatbot backend using Python"},
+      {"company": "Startup C", "role": "Junior Developer", "years": 1, "achievements": "Web application development"}
+    ],
+    "education": "B.Tech Computer Science from KIIT Bhubaneswar",
+    "certifications": [],
+    "github": "github.com/adityanarayanan",
+    "linkedin_headline": "Software Engineer | Python & JavaScript | Full Stack | Startup Enthusiast"
+  },
+  {
+    "id": "cand_043",
+    "name": "Bhavna Reddy",
+    "title": "Senior Backend Engineer",
+    "experience_years": 6,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Microservices", "REST API", "Distributed Systems", "Git", "CI/CD", "Terraform"],
+    "work_history": [
+      {"company": "Cloud Infrastructure Co", "role": "Senior Backend Engineer", "years": 3, "achievements": "Built multi-region deployment system, designed service discovery mechanism for 100+ microservices"},
+      {"company": "FinTech Startup", "role": "Backend Engineer", "years": 2, "achievements": "Developed payment settlement engine, implemented idempotent API design patterns"},
+      {"company": "IT Company", "role": "Software Developer", "years": 1, "achievements": "Backend development and API design"}
+    ],
+    "education": "B.Tech Computer Science from IIIT Bangalore",
+    "certifications": ["AWS Solutions Architect Professional", "CKA Kubernetes"],
+    "github": "github.com/bhavnar",
+    "linkedin_headline": "Senior Backend Engineer | Python & AWS | Cloud Infrastructure | Distributed Systems | Fintech"
+  },
+  {
+    "id": "cand_044",
+    "name": "Rohit Pandey",
+    "title": "Backend Developer",
+    "experience_years": 4,
+    "skills": ["PHP", "Laravel", "MySQL", "JavaScript", "Vue", "Docker", "REST API", "Git", "Redis", "Linux"],
+    "work_history": [
+      {"company": "Web Platform", "role": "Senior PHP Developer", "years": 2, "achievements": "Built content management system handling 1M page views/day"},
+      {"company": "Digital Agency", "role": "PHP Developer", "years": 2, "achievements": "E-commerce website development using Laravel"}
+    ],
+    "education": "B.Tech IT from RGPV Bhopal",
+    "certifications": [],
+    "github": "",
+    "linkedin_headline": "Backend Developer | PHP & Laravel | Web Development"
+  },
+  {
+    "id": "cand_045",
+    "name": "Anjali Mathur",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "FastAPI", "Microservices", "Git", "Monitoring", "CI/CD"],
+    "work_history": [
+      {"company": "Cybersecurity Firm", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built threat intelligence platform, designed API rate limiting and security middleware"},
+      {"company": "Tech Startup", "role": "Backend Engineer", "years": 1.5, "achievements": "Developed user authentication and authorization system, OAuth2 implementation"},
+      {"company": "Software House", "role": "Python Developer", "years": 1, "achievements": "REST API development"}
+    ],
+    "education": "B.Tech Computer Science from NIT Rourkela",
+    "certifications": ["AWS Security Specialty", "CompTIA Security+"],
+    "github": "github.com/anjalim",
+    "linkedin_headline": "Backend Engineer | Python & AWS | Cybersecurity | Secure API Design"
+  },
+  {
+    "id": "cand_046",
+    "name": "Sanjay Gupta",
+    "title": "Software Engineer",
+    "experience_years": 7,
+    "skills": ["Python", "AWS", "PostgreSQL", "Docker", "REST API", "Django", "Git"],
+    "work_history": [
+      {"company": "Same Company", "role": "Software Engineer", "years": 7, "achievements": "Maintained and enhanced existing Django applications, bug fixes and feature additions"}
+    ],
+    "education": "B.Tech from Kurukshetra University",
+    "certifications": [],
+    "github": "",
+    "linkedin_headline": "Software Engineer | Python & Django"
+  },
+  {
+    "id": "cand_047",
+    "name": "Tara Krishnamurthy",
+    "title": "Backend Engineer",
+    "experience_years": 5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Microservices", "REST API", "Git", "Terraform", "GraphQL"],
+    "work_history": [
+      {"company": "Media Tech", "role": "Senior Backend Engineer", "years": 2, "achievements": "Built content recommendation API, designed video processing pipeline handling 50K uploads/day"},
+      {"company": "SaaS Platform", "role": "Backend Engineer", "years": 2, "achievements": "Developed multi-tenant architecture, API versioning strategy"},
+      {"company": "Tech Co", "role": "Junior Developer", "years": 1, "achievements": "Python backend development"}
+    ],
+    "education": "B.Tech Computer Science from Manipal University",
+    "certifications": ["AWS Developer Associate"],
+    "github": "github.com/tarak",
+    "linkedin_headline": "Backend Engineer | Python & AWS | Media Tech & SaaS | Building Content Platforms"
+  },
+  {
+    "id": "cand_048",
+    "name": "Deepak Chauhan",
+    "title": "Senior Backend Engineer",
+    "experience_years": 5.5,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "Microservices", "REST API", "Kafka", "Git", "Linux", "CI/CD"],
+    "work_history": [
+      {"company": "Telecom Giant", "role": "Senior Backend Engineer", "years": 2.5, "achievements": "Built subscriber management system for 10M+ users, designed event-driven notification platform"},
+      {"company": "B2B SaaS", "role": "Backend Engineer", "years": 2, "achievements": "Developed CRM integration APIs, webhook delivery system"},
+      {"company": "IT Services", "role": "Software Developer", "years": 1, "achievements": "Backend API development"}
+    ],
+    "education": "B.Tech ECE from NIT Jalandhar (self-taught CS)",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "github": "github.com/deepakc",
+    "linkedin_headline": "Senior Backend Engineer | Python & AWS | Telecom & SaaS | Building at Scale"
+  },
+  {
+    "id": "cand_049",
+    "name": "Aarti Sharma",
+    "title": "Backend Engineer",
+    "experience_years": 4,
+    "skills": ["Python", "AWS", "PostgreSQL", "Redis", "Docker", "REST API", "FastAPI", "Git", "Linux", "Elasticsearch"],
+    "work_history": [
+      {"company": "Search Startup", "role": "Backend Engineer", "years": 2, "achievements": "Built search indexing pipeline for 100M+ documents, implemented faceted search with Elasticsearch"},
+      {"company": "E-Commerce", "role": "Junior Backend Engineer", "years": 2, "achievements": "Product catalog API, search functionality, inventory management"}
+    ],
+    "education": "B.Tech Computer Science from PEC Chandigarh",
+    "certifications": ["AWS Cloud Practitioner"],
+    "github": "github.com/aartis",
+    "linkedin_headline": "Backend Engineer | Python & Elasticsearch | Search Systems | E-Commerce"
+  },
+  {
+    "id": "cand_050",
+    "name": "Manoj Kumar",
+    "title": "Software Developer",
+    "experience_years": 8,
+    "skills": ["C++", "Python", "Linux", "PostgreSQL", "Docker", "Git", "Networking", "System Programming"],
+    "work_history": [
+      {"company": "Telecom R&D", "role": "Senior Software Developer", "years": 4, "achievements": "Developed low-level networking protocols, performance-critical systems programming"},
+      {"company": "Defense Contractor", "role": "Software Developer", "years": 3, "achievements": "Built embedded systems software, real-time processing"},
+      {"company": "IT Company", "role": "Junior Developer", "years": 1, "achievements": "C++ application development"}
+    ],
+    "education": "M.Tech Computer Science from IIT Madras",
+    "certifications": ["Linux Foundation Certified Engineer"],
+    "github": "",
+    "linkedin_headline": "Senior Software Developer | C++ & Systems Programming | Performance Engineering"
+  }
+]
