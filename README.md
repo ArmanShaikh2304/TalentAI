@@ -224,7 +224,7 @@ npm run dev
 
 ## Mind Matrix
 
-* Ahanti Kiran Kadam
+* Ahanti K. Kadam
 * Arman R. Shaikh
 
 ---
