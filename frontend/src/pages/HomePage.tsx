@@ -5,7 +5,7 @@ import { useDropzone } from 'react-dropzone';
 import { useAppStore } from '../store/store';
 import { analyzeJD } from '../services/api';
 
-const SAMPLE_JD = `We're looking for a Senior Backend Engineer to lead our platform's backend infrastructure. You'll work with Python, AWS, and build distributed systems serving millions of users.
+const SAMPLE_JD = `We're looking for a Senior Backend Engineer to lead our platform's backend infrastructure. You'll work with Python, AWS, and build distributed systems serving millions of users across the globe.
 
 The ideal candidate has 5+ years of experience building scalable backend services, strong expertise in Python and cloud technologies (AWS required), and experience with distributed systems and microservices architecture.
 
